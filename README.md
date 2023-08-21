@@ -20,7 +20,7 @@ Instrutores: Alex Lima e Maurício Sobrinho
 **Informações importantes sobre os dois notebooks do projeto:**
 
 - Análise_Exploratória_Combustíveis.ipynb: notebook onde construímos a análise exploratória sobre os combustíveis.
-  - Pasta datasets_combustível: onde está armazenado os datasets dos combustíveis (não conseguimos realizar o upload desses arquivos aqui devido ao tamanho: cerca de 2 GB). Dados disponíveis em: https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/serie-historica-de-precos-de-combustiveis. De forma alternativa, baixe os datasets compactados da pasta *datasets_combustivel_comprimido* e siga o que está descrito acima na seção *Execução*.
+  - Pasta datasets_combustível: onde está armazenado os datasets referentes aos preços dos combustíveis (não conseguimos realizar o upload desses arquivos aqui devido ao tamanho: cerca de 2 GB). Dados disponíveis em: https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/serie-historica-de-precos-de-combustiveis. De forma alternativa, baixe os datasets compactados da pasta *datasets_combustivel_comprimido* e siga o que está descrito acima na seção *Execução*.
   - Pasta IBGE_Aux: onde está armazenado o dataset auxiliar com os dados de geolocalização utilizado para a construção dos mapas na análise.
 -  Análise_Exploratória_Tributação.ipynb: notebook onde construímos a análise exploratória sobre as tributações dos estados.
-    - Dataset_Tributos.xls: dataset utilizado para aquisão de dados referentes às tributações (dados disponíveis em: https://dados.gov.br/dados/conjuntos-dados/boletim-de-arrecadacao-dos-tributos-estaduais)
+    - Dataset_Tributos.xls: dataset utilizado para aquisão de dados referentes às tributações (dados disponíveis em: https://dados.gov.br/dados/conjuntos-dados/boletim-de-arrecadacao-dos-tributos-estaduais).
