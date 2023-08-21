@@ -4,7 +4,7 @@
 
 Instrutor: Alex Lima
 
-Equipe: Gabriel Miranda, Marcus Thadeu, Ruann Campos e Thiago Caveglion
+**Equipe: Gabriel Miranda, Marcus Thadeu, Ruann Campos e Thiago Caveglion**
 
 O projeto como um todo tem como objetivos:
 * Analisar de forma exploratória a série histórica de preços de combustíveis no Brasil no período de 2018.1 a 2023.1;
