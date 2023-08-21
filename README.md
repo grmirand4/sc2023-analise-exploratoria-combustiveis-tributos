@@ -9,6 +9,7 @@ Instrutores: Alex Lima e Maurício Sobrinho
 **Execução**
 
 * Para rodar o arquivo localmente, certifique-se que a variável ```descompactar``` (no notebook *Análise_Exploratória_Combustível.ipynb*) e a variável ```rodando_localmente``` (no notebook *Análise_Exploratória_Tributação.ipynb*) estejam marcadas como ```True```.
+  * Outra forma é baixar os datasets diretamente do site dados.gov, como explicaremos a seguir.
 
 **O projeto como um todo tem como objetivos:**
 
