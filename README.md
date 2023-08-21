@@ -1,7 +1,9 @@
 # sc2023-analise-exploratoria-combustiveis-tributos
 
 **Projeto - Técnicas de Programação II**
+
 Instrutor: Alex Lima
+
 Equipe: Gabriel Miranda, Marcus Thadeu, Ruann Campos e Thiago Caveglion
 
 O projeto como um todo tem como objetivos:
