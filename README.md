@@ -1,6 +1,6 @@
 # sc2023-analise-exploratoria-combustiveis-tributos
 
-**Projeto - Técnicas de Programação II**
+**Projeto - Técnicas de Programação I**
 
 Instrutor: Alex Lima
 
