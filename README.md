@@ -1,4 +1,4 @@
-# sc2023-analise-exploratoria-combustiveis-tributos
+# Análise exploratória: série temporal dos preços de combustíveis e de tributações estaduais (2018.1 a 2023.2)
 
 **Projeto - Técnicas de Programação I**
 
